@@ -30,7 +30,14 @@ SensorX recopila datos de los ejes X, Y y Z de los sensores de tu dispositivo m�
    ```bash
    git clone https://github.com/saidrexx/sensorx.git
    ```
-
+2. Descarga las dependencias:
+   ```bash
+   flutter pub get
+   ```
+3. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
 
 
 ## 👨‍🏫 Desarrolladores
@@ -71,6 +78,14 @@ SensorX gathers data from the X, Y, and Z axes of your mobile device's sensors. 
 1. Clone this repository:
    ```bash
    git clone https://github.com/saidrexx/sensorx.git
+   ```
+2. Get dependencies:
+   ```bash
+   flutter pub get
+   ```
+3. Run application:
+   ```bash
+   flutter run
    ```
 
 ## 👨‍🏫 Developers
